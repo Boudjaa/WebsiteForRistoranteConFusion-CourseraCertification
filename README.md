@@ -1,5 +1,5 @@
 # Front-End Web UI Frameworks and Tools: Bootstrap 4 </br>
-The Hong Kong University of Science and Technology</br>
+The Hong Kong University of Science and Technology </br>
 Project - Front-End Web UI Frameworks and Tools: Bootstrap 4 Coursera's | 2019 </br></br>
 https://www.coursera.org/learn/bootstrap-4 </br></br>
 Skills i Gained: <b> Bootstrap, Node.Js, NPM, Jquery, Less & Sass, Git, JavaScript, CSS + HTML, Task Runners (Grunt & Gulp), Responsive Web Page Design </b>
