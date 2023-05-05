@@ -3,11 +3,10 @@ The Hong Kong University of Science and Technology </br>
 Project - Front-End Web UI Frameworks and Tools: Bootstrap 4 Coursera's | 2019 </br></br>
 https://www.coursera.org/learn/bootstrap-4 </br></br>
 Skills i Gained: <b> Bootstrap, Node.Js, NPM, Jquery, Less & Sass, Git, JavaScript, CSS + HTML, Task Runners (Grunt & Gulp), Responsive Web Page Design </b>
-
-
-First, you must have Node JS installed. Once you have installed Node JS,
-navigate to the files folder and run "npm install" to install all the required dependencies.
-However, please be aware that this repository is solely for informational purposes, </br></br>
+</br></br>
+<h3> <b> Live Demo: </b>  https://boudjaa.github.io/WebsiteForRistoranteConFusion-CourseraCertification/ </h3>
+</br>
+Please be aware that this repository is solely for informational purposes, </br></br>
 DON'T COPY if you are also enrolled in the course.
 
 
