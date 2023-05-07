@@ -12,4 +12,4 @@ DON'T COPY if you are also enrolled in the course.
 
 <h2>Verify my Certificate at: https://coursera.org/share/9ce1a8c43105740cb419cfa42e4fd331 <h2>
 
-<center> <img src="https://i.imgur.com/y2dgyzU.jpg" alt="Coursera Front-End Web Certificate" width="50%"/> </center>
+<center> <img src="https://i.imgur.com/y2dgyzU.jpg" alt="Coursera Front-End Web Certificate" width="80%"/> </center>
